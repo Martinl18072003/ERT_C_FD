@@ -1,0 +1,61 @@
+Name,Values
+Engine Data - Motor name,"DEMO A2"
+Engine Data - engine dry mass,2.9
+Engine Data - oxidizer name,ETH
+Engine Data - oxidizer density (gas - liquid),1.59 - 789
+Engine Data - fuel name,N2O
+Engine Data - fuel density (gas - liquid),1.9277 - 900
+Engine Data - nozzle radius,48.86/1000
+Engine Data - center of dry mass,140/1000
+Engine Data - dry inertia,"(0,0.14,69.4/1000)"
+Engine Data - oxidizer mass,6.3144
+Engine Data - fuel mass,1.7971
+Engine Data - burn time,9.3
+Engine Data - total impulse,14402
+Engine Data - peak thrust,1985
+Engine Data - average thrust,1548
+Engine Data - path thrust curve image,report_images/thrust.png
+Rocket Data - ox tank position,785/1000
+Rocket Data - fuel tank position,785/1000
+Rocket Data - upper button position,30/1000
+Rocket Data - lower button position,1179/1000
+Rocket Data - inertia,"(29.19,29.19,0.1234)"
+Rocket Data - drag coefficient,0.45
+Rocket Data - center of mass without Motor,2.11
+Rocket Data - engine position,1040/1000
+Rocket Data - boat tail top radius,157/2000
+Rocket Data - boat tail bottom radius,156.8/2000
+Rocket Data - boat tail length,79/1000
+Rocket Data - boat tail position,3589/1000
+Rocket Data - dry mass,34.082
+Rocket Data - radius,78.5/1000
+Rocket Data - path ORK schematic image,report_images/rocket.png
+Aerodynamics - number of fins,4
+Aerodynamics - fins root chord,280/1000
+Aerodynamics - fins tip chord,125/1000
+Aerodynamics - fins span,180/1000
+Aerodynamics - fins position,3300/1000
+Aerodynamics - fins cant angle,0
+Aerodynamics - fins sweep angle,30.7
+Aerodynamics - nosecone length,302/1000
+Aerodynamics - nosecone position,0/1000
+Aerodynamics - nosecone type,ogive
+Recovery - drogue drag coefficient,1
+Recovery - drogue trigger,apogee
+Recovery - drogue sampling rate,105
+Recovery - drogue lag,1.5
+Recovery - drogue noise,"(0,0,0)"
+Recovery - main drag coefficient,10
+Recovery - main trigger,400 m
+Recovery - main sampling rate,105
+Recovery - main lag,1.5
+Recovery - main noise,"(0,0,0)"
+Flight Simulations - latitude,39.389079
+Flight Simulations - longitude,-8.288112
+Flight Simulations - elevation,170
+Flight Simulations - rail length,12
+Flight Simulations - rail inclination,85
+Flight Simulations - path 3D trajectory image,report_images/3D_trajectory.png
+Flight Simulations - path acceleration image,report_images/acceleration.png
+Flight Simulations - path velocity image,report_images/velocity.png
+Flight Simulations - path altitude image,report_images/altitude.png
