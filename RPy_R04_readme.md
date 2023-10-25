@@ -6,14 +6,10 @@
 
 **Step 0: VS Code extensions**
 
-0.1. Jupyter Notebooks extensions:
-
+0.1. Jupyter Notebooks extensions:\\
     0.1.1 Jupyter
-    
     0.1.2 Jupyter Cell Tags
-    
     0.1.3 Jupyter Keymap
-
     0.1.4 Jupyter Notebook Render
 
 **Step 1: Data Preparation**
