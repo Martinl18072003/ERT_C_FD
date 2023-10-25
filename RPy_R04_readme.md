@@ -5,12 +5,11 @@
 #### Sub-System: C - Flight Dynamics
 
 **Step 0: VS Code extensions**
-
-0.1. Jupyter Notebooks extensions:\\
-    0.1.1 Jupyter
-    0.1.2 Jupyter Cell Tags
-    0.1.3 Jupyter Keymap
-    0.1.4 Jupyter Notebook Render
+0.1. Jupyter Notebooks extensions:\n
+    0.1.1 Jupyter\n
+    0.1.2 Jupyter Cell Tags\n
+    0.1.3 Jupyter Keymap\n
+    0.1.4 Jupyter Notebook Render\n
 
 **Step 1: Data Preparation**
 1.1. Check the <span style="color: orange;">#TODO CHECK</span>s in the file "RPy_R04.ipynb" 
